@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawenIT&show_icons=true&theme=midnight-purple&count_private=false)
+
+# Total Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawenIT&show_icons=true&theme=midnight-purple&count_private=true)
+
+# Streaks
+
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lawenIT&theme=radical)
+
+# Most Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawenIT&theme=radical)](#)
