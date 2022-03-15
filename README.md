@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 # Most Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawenIT&theme=radical)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawenIT&theme=vision-friendly-dark)](#)
