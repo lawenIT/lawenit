@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Streaks
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lawenIT&theme=radical)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lawenIT&theme=highcontrast)
 
 # Most Used
 
