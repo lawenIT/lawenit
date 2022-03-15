@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Total Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawenIT&show_icons=true&theme=midnight-purple&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawenIT&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 # Streaks
 
